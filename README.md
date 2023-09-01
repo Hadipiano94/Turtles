@@ -2,4 +2,4 @@
 First interactions with Turtles
 
 
-<img src="result.PNG" width=500 height=400>
+<img src="result.PNG" width=800 height=500>
